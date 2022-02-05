@@ -2,6 +2,8 @@
 
 My name is Luke Perry and I'm a student at University of Maryland. 
 
+You'll see a bunch of activity down below, but I'm using Github as my own personal storage for all my configs I use across all my machines and have some automation to push/pull updates frequently :)
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
