@@ -2,8 +2,6 @@
 
 My name is Luke Perry and I'm a student at University of Maryland. 
 
-You'll see a bunch of push/pull activity down below, but full disclaimer a lot of it is from private repos for school and personal projects I'm way too embarrassed to share. Also, I have some automation to push/pull updates from my config files I use across all my machines :)
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
