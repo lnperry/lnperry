@@ -10,7 +10,6 @@ My name is Luke Perry and I'm a student at University of Maryland.
 ![](https://img.shields.io/badge/Bash-Shell-informational?style=flat&logo=gnu-bash&logoColor=black&color=blue)
 ![](https://img.shields.io/badge/PostgreSQL-Tools-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Docker-Tools-informational?style=flat&logo=docker&logoColor=blue&color=blue)
-![](https://img.shields.io/badge/Kubernetes-Tools-informational?style=flat&logo=kubernetes&logoColor=white&color=blue)
 
 ## &#x1f4c8; GitHub Stats
 
