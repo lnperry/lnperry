@@ -3,13 +3,13 @@
 My name is Luke Perry and I'm a student at University of Maryland. 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Debian-OS-informational?style=flat&logo=ubuntu&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Neovim-Editor-informational?style=flat&logo=neovim&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Python-Code-informational?style=flat&logo=python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/JavaScript-Code-informational?style=flat&logo=javascript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Bash-Shell-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
+![](https://img.shields.io/badge/PostgreSQL-Tools-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Docker-Tools-informational?style=flat&logo=docker&logoColor=white&color=blue)
 
 ## &#x1f4c8; GitHub Stats
 
