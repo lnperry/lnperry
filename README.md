@@ -3,7 +3,7 @@
 My name is Luke Perry and I'm a student at University of Maryland. 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Debian-OS-informational?style=flat&logo=ubuntu&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Ubuntu-OS-informational?style=flat&logo=ubuntu&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Neovim-Editor-informational?style=flat&logo=neovim&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Python-Code-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/JavaScript-Code-informational?style=flat&logo=javascript&logoColor=white&color=blue)
