@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Luke Perry and I'm a student at University of Maryland. 
+My name is Luke Perry and I'm an engineer at Google
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Ubuntu-OS-informational?style=flat&logo=ubuntu&logoColor=orange&color=blue)
